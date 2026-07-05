@@ -10,7 +10,7 @@
   Dashboard below is a SYNTHETIC RECONSTRUCTION (fake data) mirroring the real
   ERPNext Insights layout. No company data. Rebuild via scripts/render_dashboard.py
 -->
-![Quotation Health Dashboard](assets/quotation_health_dashboard.png)
+![Quotation Health Dashboard](assets/quotation_health_dashboard.jpg)
 
 > ⚠️ **Data note:** the dashboard above is a **synthetic reconstruction** mirroring the real ERPNext Insights report's layout and metric structure. It uses generated data — **no company customer names, staff or financials are shown.** Regenerate it with [`scripts/render_dashboard.py`](scripts/render_dashboard.py).
 
